@@ -1,0 +1,15 @@
+videos
+target
+reports
+screenshots
+allure-report
+allure-results
+node_modules
+downloads
+har
+hars
+.har
+*.har
+failedcases.json
+FailSuits.json
+passcases.json
