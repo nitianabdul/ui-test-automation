@@ -1,0 +1,13 @@
+{
+    "cucumberautocomplete.steps": [
+        "cypress/e2e/**/*.js",
+        // "cypress/e2e/steps/*.js",
+    ],
+    "cucumberautocomplete.syncfeatures": "features/**/*.feature",
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#342D07",
+        "titleBar.activeBackground": "#493F0A",
+        "titleBar.activeForeground": "#FDFBEE"
+    }
+}
