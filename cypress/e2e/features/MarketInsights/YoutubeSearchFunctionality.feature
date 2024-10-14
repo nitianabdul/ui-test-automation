@@ -5,7 +5,7 @@
 
 #  14/10/2024      Abdul Kalam    Satyam          Added Search Functionality     
 
-Feature: Manage Insighe Verification
+Feature: Market Insights Verification
 
   Scenario: Verify search functionality
     Given user searches latest song on youtube

@@ -7,7 +7,7 @@ const youtubeURL = 'https://www.youtube.com/';
 const searchInput = '//input[contains(@id,"search")]'
 const searchIcon = '//button[contains(@id,"search-icon-legacy")]//*[local-name()="svg"]'
 
-class manageInsightPage {
+class marketInsightsPage {
 
     // Method for Searching Latest Song - Abdul - 14/10/2024
     static searchLatestSongInYoutube(){
@@ -19,4 +19,4 @@ class manageInsightPage {
 
 }
 
-export default manageInsightPage
+export default marketInsightsPage
